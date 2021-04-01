@@ -1,0 +1,2 @@
+Order Number,Order Date,Recipient Name,Company,Email,Phone,Street Line 1,Street Number,Street Line 2,City,State/Province,Zip/Postal Code,Country,Item Title,SKU,Quantity,Item Weight,Item Weight Unit,Item Price,Item Currency,Order Weight,Order Weight Unit,Order Amount,Order Currency
+#1000,3/14/18,Simon Kreuz,Shippo,info@goshippo.com,415-123-4567,965 Mission Street,,Apt. #203,San Francisco,CA,94103,US,large envelope,LE_02,5,0.1,lb,10,USD,0.5,lb,50,USD
